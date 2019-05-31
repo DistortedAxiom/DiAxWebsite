@@ -8,3 +8,13 @@
 	color: white;
 }
 
+.content {
+	background-image: url(sunless.gif);
+	background-size: 100%;
+	min-height: 100vh;
+	width: 100%;
+	margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
