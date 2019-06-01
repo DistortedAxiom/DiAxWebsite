@@ -29,13 +29,26 @@
     overflow: hidden;
 }
 
-.nav-link {
-	color: white;
-	size: 20px;
+#navbarNav {
+	margin-top: 2vh;
 }
 
 .nav-item {
-	
+	border: solid transparent 1px;
 }
 
+.nav-item:hover {
+	border-color: white;
+}
 
+.nav_home {
+	margin: auto;
+}
+
+#nav_item_about {
+	margin-right: 20vh;
+}
+
+#nav_item_projects {
+	margin-right: 15vh;
+}
