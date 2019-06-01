@@ -52,3 +52,10 @@
 #nav_item_projects {
 	margin-right: 15vh;
 }
+
+.about_me_text {
+	margin: auto;
+	width: 50%;
+	text-align: center;
+	padding: 8vh
+}
