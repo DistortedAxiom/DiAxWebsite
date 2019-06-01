@@ -4,17 +4,38 @@
 	background-color: black;
 }
 
+#nav-header	 {
+	padding-bottom: 8%;
+}
+
 .nav_menu_link {
 	color: white;
+}
+
+.content-wrapper{
+	padding-left: 50px;
+	padding-right: 50px;
+  	background-color:black;
+  	color: #fff;
 }
 
 .content {
 	background-image: url(sunless.gif);
 	background-size: 100%;
-	min-height: 100vh;
+	min-height: 80vh;
 	width: 100%;
 	margin: 0px;
     padding: 0px;
     overflow: hidden;
 }
+
+.nav-link {
+	color: white;
+	size: 20px;
+}
+
+.nav-item {
+	
+}
+
 
