@@ -13,9 +13,7 @@
 }
 
 .content-wrapper{
-	padding-left: 50px;
-	padding-right: 50px;
-  	background-color:black;
+  	background-color: black;
   	color: #fff;
 }
 
@@ -57,5 +55,17 @@
 	margin: auto;
 	width: 50%;
 	text-align: center;
-	padding: 8vh
+	padding: 4vh
 }
+
+#intro {
+	background-color: black;
+	color: white;
+
+}
+
+#intro_p {
+	background-color: black;
+}
+
+
